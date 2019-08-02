@@ -5,11 +5,11 @@ It is a tool used to push notifications on desktop.
 ## Installation
 
 ```bash
-npm i foobar
+npm i react-desktop-notify
 ```
 
 ```bash
-yarn add foobar
+yarn add react-desktop-notify
 ```
 
 ## Usage
