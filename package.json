@@ -1,6 +1,6 @@
 {
   "name": "react-desktop-notify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Send Desktop notifications to user",
   "main": "index.js",
   "scripts": {
